@@ -21,10 +21,4 @@ I am a collaborative person, and I believe in the power of teamwork. Working wit
 - I am almost 24/7 online and respond very quickly.
 -  I prefer long-term projects.
 
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjit485&show_icons=true&theme=radical)
-
-## Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjit485&layout=compact)
-
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat!
