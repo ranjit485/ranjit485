@@ -6,7 +6,7 @@ I'm Ranjit, I enjoy exploring new technologies, learning new programming languag
 I am a collaborative person, and I believe in the power of teamwork. Working with others not only enables me to share my ideas but also allows me to learn from fellow programmers and grow together.
 
 ## My Interests
-- 🌱 I’m currently learning Data structures and algorithms.
+- 🌱 I’m currently learning Machine Learning .
 - 💬 Ask me about Ai driven appointment flows.
 - 📫 How to reach me: 749-949-1002.
 
